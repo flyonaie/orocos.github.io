@@ -2,7 +2,7 @@
 Unfortunately, [orocos.org](http://www.orocos.org/) was down since mid August and we have not found a quick and easy way to fix it. It is planned to create a new website and also restore the contents of the Wiki that are still up-to-date.
 </strong> 
  
-If you have questions, comments or want to contribute to this temporary page, please open an issue or pull request at [https://github.com/orocos/orocos.org/issues](https://github.com/orocos/orocos.org/issues).
+If you have questions, comments or want to contribute to this temporary page, please open an issue or pull request at [{{ site.github.repository_url }}]({{ site.github.issues_url }}).
 
 <i>
 Most of the manuals linked below should probably be rewritten in [Markdown](https://guides.github.com/features/mastering-markdown/)
