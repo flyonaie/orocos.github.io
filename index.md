@@ -1,6 +1,8 @@
 <strong>
-http://www.orocos.org/ was down since mid August. Unfortunately we have not found a quick and easy way to fix it. It is planned to create a new website and also restore the contents of the Wiki that are still up-to-date. If you have questions, comments or want to contribute to this temporary page, please open an issue or pull request at https://github.com/orocos/orocos.org/issues.
-</strong>
+http://www.orocos.org/ was down since mid August. Unfortunately we have not found a quick and easy way to fix it. It is planned to create a new website and also restore the contents of the Wiki that are still up-to-date.
+</strong> 
+ 
+If you have questions, comments or want to contribute to this temporary page, please open an issue or pull request at https://github.com/orocos/orocos.org/issues.
 
 <i>
 Most of the manuals linked below should probably be rewritten in [Markdown](https://guides.github.com/features/mastering-markdown/)
@@ -12,7 +14,7 @@ Contributions are welcome!
 
 ### Binaries
 
-Binary builds are currently only available for Linux through [ROS](https://www.ros.org/).
+Binary builds are currently only available for Linux through [ROS](http://www.ros.org/).
 
 * [ROS Installation instructions](http://wiki.ros.org/ROS/Installation)
 
@@ -26,7 +28,7 @@ Binary builds are currently only available for Linux through [ROS](https://www.r
 * [Orocos Kinematics and Dynamics Library (KDL)](https://github.com/orocos/orocos_kinematics_dynamics)
 * [Orocos Bayesian Filtering Library (BFL)](https://github.com/toeklk/orocos-bayesian-filtering)
 
-For [ROS](https://www.ros.org/) users:
+For [ROS](http://www.ros.org/) users:
 
 * [RTT ROS Integration](https://github.com/orocos/rtt_ros_integration)
 
