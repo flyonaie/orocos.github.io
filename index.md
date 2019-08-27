@@ -1,7 +1,5 @@
 <strong>
-http://www.orocos.org/ was down since mid August. Unfortunately we have not found a quick and easy way to fix it. It is planned to create a new website and also restore the contents of the Wiki that are still up-to-date.
-
-If you have questions, comments or want to contribute to this temporary page, please open an issue or pull request at https://github.com/orocos/orocos.org/issues.
+http://www.orocos.org/ was down since mid August. Unfortunately we have not found a quick and easy way to fix it. It is planned to create a new website and also restore the contents of the Wiki that are still up-to-date. If you have questions, comments or want to contribute to this temporary page, please open an issue or pull request at https://github.com/orocos/orocos.org/issues.
 </strong>
 
 <i>
