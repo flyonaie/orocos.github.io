@@ -1,6 +1,8 @@
-<i>
-This page is meant to replace http://www.orocos.org/ soon.
-</i>
+<strong>
+http://www.orocos.org/ was down since mid August. Unfortunately we have not found a quick and easy way to fix it. It is planned to create a new website and also restore the contents of the Wiki that are still up-to-date.
+
+If you have questions, comments or want to contribute to this temporary page, please open an issue at https://github.com/orocos/orocos.org/issues.
+</strong>
 
 <i>
 Most of the manuals linked below should probably be rewritten in [Markdown](https://guides.github.com/features/mastering-markdown/)
@@ -8,7 +10,29 @@ to be rendered by [Jekyll](https://jekyllrb.com/).
 Contributions are welcome!
 </i>
 
-## Online API resources
+## Download
+
+# Binaries
+
+Binary builds are currently only available for Linux through [ROS](https://www.ros.org/).
+
+* [ROS Installation instructions](http://wiki.ros.org/ROS/Installation)
+
+# Source repositories
+
+* The [Orocos Toolchain](https://github.com/orocos-toolchain/orocos_toolchain), consisting of...
+  * [Orocos Real-Time Toolkit (RTT)](https://github.com/orocos-toolchain/rtt)
+  * [Orocos Component Library (OCL)](https://github.com/orocos-toolchain/ocl)
+  * [OroGen](https://github.com/orocos-toolchain/orogen)
+  * ... and some of their dependencies.
+* [Orocos Kinematics and Dynamics Library (KDL)](https://github.com/orocos/orocos_kinematics_dynamics)
+* [Orocos Bayesian Filtering Library (BFL)](https://github.com/toeklk/orocos-bayesian-filtering)
+
+For [ROS](https://www.ros.org/) users:
+
+* [RTT ROS Integration](https://github.com/orocos/rtt_ros_integration)
+
+## Documentation
 
 ### Latest released version ({{ site.data.releases[0].version }})
 
