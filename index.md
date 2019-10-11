@@ -10,6 +10,28 @@ to be rendered by [Jekyll](https://jekyllrb.com/).
 Contributions are welcome!
 </i>
 
+## What is the Orocos Toolchain?
+
+The Orocos Toolchain is your primary tool to create **real-time** robotics applications using modular, run-time configurable software components.
+
+It provides:
+
+* Multi-platform support: **Linux**, **Windows** (Visual Studio) and **Mac OS X**
+* Extensions to other robotics frameworks: **ROS**, **Rock**, **Yarp**
+* Code generators to transfer **user-defined data** between distributed components
+* Run-time & real-time **configurable** and **scriptable** components
+* **Logging** and **reporting** of system events and communicated data
+
+It consists of:
+
+* [AutoProj](http://www.rock-robotics.org/autoproj/), A tool to download and compile the necessary libraries (optional)
+* The [Real-Time Toolkit](http://www.orocos.org/rtt), a component framework that allows us to write real-time components in C++
+* The [Orocos Component Library](http://www.orocos.org/ocl), the necessary components to start an application and interact with it at run-time
+* [OroGen](http://www.rock-robotics.org/documentation/orogen/) and [TypeGen](http://www.rock-robotics.org/documentation/orogen/),
+  tools to generate ready-to-compile-and-run code from existing headers or component description files
+
+Components built by users of Orocos are hosted in their own repositories.
+
 ## Download
 
 ### Binaries
@@ -63,26 +85,3 @@ For [ROS](http://www.ros.org/) users:
 * [Orocos CORBA Transport](rtt/{{ site.data.releases[0].doc_branch }}/xml/orocos-transports-corba.html) ([pdf](rtt/{{ site.data.releases[0].doc_branch }}/xml/orocos-transports-corba.pdf))
 * [Orocos Message Queue Transport](rtt/{{ site.data.releases[0].doc_branch }}/xml/orocos-transports-mqueue.html) ([pdf](rtt/{{ site.data.releases[0].doc_branch }}/xml/orocos-transports-mqueue.pdf))
 * [The RTT-Lua Cookbook](http://www.orocos.org/wiki/orocos/toolchain/LuaCookbook)
-
-## What is the Orocos Toolchain?
-
-The Orocos Toolchain is your primary tool to create **real-time** robotics applications using modular, run-time configurable software components.
-
-It provides:
-
-* Multi-platform support: **Linux**, **Windows** (Visual Studio) and **Mac OS X**
-* Extensions to other robotics frameworks: **ROS**, **Rock**, **Yarp**
-* Code generators to transfer **user-defined data** between distributed components
-* Run-time & real-time **configurable** and **scriptable** components
-* **Logging** and **reporting** of system events and communicated data
-
-It consists of:
-
-* [AutoProj](http://www.rock-robotics.org/autoproj/), A tool to download and compile the necessary libraries (optional)
-* The [Real-Time Toolkit](http://www.orocos.org/rtt), a component framework that allows us to write real-time components in C++
-* The [Orocos Component Library](http://www.orocos.org/ocl), the necessary components to start an application and interact with it at run-time
-* [OroGen](http://www.rock-robotics.org/documentation/orogen/) and [TypeGen](http://www.rock-robotics.org/documentation/orogen/),
-  tools to generate ready-to-compile-and-run code from existing headers or component description files
-
-Components built by users of Orocos are hosted in their own repositories.
-
