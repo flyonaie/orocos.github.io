@@ -1,13 +1,17 @@
 <strong>
-Unfortunately, [orocos.org](http://www.orocos.org/) was down since mid August and we have not found a quick and easy way to fix it. It is planned to create a new website and also restore the contents of the Wiki that are still up-to-date.
-</strong> 
- 
+The official site of [orocos.org](https://orocos.org/) is back online after
+an upgrade.
+[docs.orocos.org](https://docs.orocos.org/) now centralizes all the
+documentation related to the Orocos Project.
+</strong>
+
 If you have questions, comments or want to contribute to this temporary page, please open an issue or pull request at [{{ site.github.repository_url }}]({{ site.github.issues_url }}).
 
 <i>
 Most of the manuals linked below should probably be rewritten in [Markdown](https://guides.github.com/features/mastering-markdown/)
 to be rendered by [Jekyll](https://jekyllrb.com/).
-Contributions are welcome!
+Contributions to the [documentation](https://docs.orocos.org) are welcome!
+Feel free to submit a pull request to https://github.com/orocos/orocos-docs if you feel that something is missing or needs to be clarified.
 </i>
 
 ## What is the Orocos Toolchain?
